@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  🌍 I'm based in Nyeri, Kenya || Nairobi, Kenya<br>
+  🌍 I'm based in Nanyuki, Kenya || Nairobi, Kenya<br>
   🖥️ See my portfolio at <a href="https://stephenmwangi.vercel.app/projects">My Portfolio</a><br>
   ✉️ You can contact me at <a href="mailto:mwangi.mainastephen3@gmail.com">mwangi.mainastephen3@gmail.com</a><br>
   🧠 I'm learning Robotics, Embedded systems, Edge Computing, and Cloud Services<br>

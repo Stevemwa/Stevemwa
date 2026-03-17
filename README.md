@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I am Stephen Mwangi</h1>
-<p align="center"> A Mechatronics, Embedded systems and IoT systems Engineer </p>
+<p align="center"> A Mechatronics and Edge systems Engineer </p>
 
 <h1 align= "center"> SOCIALS </h1>
 
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  🌍 I'm based in Nanyuki, Kenya || Nairobi, Kenya<br>
+  
   🖥️ Check out my portfolio at <a href="https://stephenmwangi.vercel.app/projects">My Portfolio</a><br>
   ✉️ You can contact me at <a href="mailto:mwangi.mainastephen3@gmail.com">mwangi.mainastephen3@gmail.com</a><br>
   🧠 I'm into Robotics, Embedded systems, Edge Computing, and Cloud Services<br>
